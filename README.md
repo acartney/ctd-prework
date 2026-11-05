@@ -1,9 +1,8 @@
 # ctd-prework
-CTD Learns Application
+### CTD Learns Application
 
-Here is the link to pre-work instructions: https://codethedream.org/python-intro-pre-work/.
+Link to pre-work instructions: https://codethedream.org/python-intro-pre-work/.
 
-Upcoming deadlines and dates:
-
-Pre-Work Deadline: November 15, 2026.
-You will receive an admissions decision by November 24, 2026.
+#### Upcoming deadlines and dates:
+Pre-Work Deadline: November 15, 2026.\
+Receive an admissions decision: November 24, 2026.
